@@ -20,4 +20,4 @@ or
 - Devolver la vista home después de haber actualizado una solicitud con los nuevos datos 
 
 Extra:
-- Darle formato a la fecha de creación: D-M-Year (hour:min:seconds)
+- Darle formato a la fecha de creación: D-M-Year (hour:min:seconds).
